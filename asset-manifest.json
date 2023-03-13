@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router-forms/static/css/main.e6c13ad2.css",
+    "main.js": "/react-router-forms/static/js/main.f13f807a.js",
+    "index.html": "/react-router-forms/index.html",
+    "main.e6c13ad2.css.map": "/react-router-forms/static/css/main.e6c13ad2.css.map",
+    "main.f13f807a.js.map": "/react-router-forms/static/js/main.f13f807a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f13f807a.js"
+  ]
+}
